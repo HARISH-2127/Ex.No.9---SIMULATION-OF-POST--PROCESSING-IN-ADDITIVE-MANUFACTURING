@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/b8d34224-4e35-4367-92a3-b95e65c29394)
+
+![image](https://github.com/user-attachments/assets/7025452c-c453-4394-b26c-fa3c88c422ac)
+
+![image](https://github.com/user-attachments/assets/a3235de4-39f2-42f2-aa23-15ee98897fba)
+
+
+### Name:  HARISH S
+### Register Number: 212224040105
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
